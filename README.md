@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hi, I'm Justin 👋
 
-<!--
-**DustyCs/DustyCs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate Full Stack Developer with experience building applications using Java Spring Boot, MERN Stack, and Python.
 
-Here are some ideas to get you started:
+## 🚀 Current Focus
+- Microservices Architecture
+- Testing & Automation
+- CI/CD Pipelines
+- Scalable Backend Systems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+Java • Spring Boot • JavaScript • Node.js • React • MongoDB • Python • Docker • Redis • SQL
+
+## 🔥 Projects
+- Personal Java Spring Boot Microservices Blog Platform
+- Horror Multiplayer Web Game (Node.js Microservices)
+- Python AI Assistant with Terminal UI
+
+## 📫 Open to:
+Internships • Freelance • Junior Developer Roles • Collaborations
